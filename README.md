@@ -26,4 +26,6 @@ config.d.ts - позволяет открыть .jpg картинку . interfac
 ## components -> add -> Add.tsx . принимает из .map (App) купюру , которую можно вложить в автомат . + отвечает за валидацию надписи "В кармане"(Header.tsx) . 
 <br/>
 # ипользовал: TS, React , SCSS
-![image](https://user-images.githubusercontent.com/97777490/214834022-cc24cf10-e88d-4e48-a792-053cbb7e51b8.png)
+
+![image](https://user-images.githubusercontent.com/97777490/214834235-b7ecde5a-30f2-4c23-a4e0-a6d5e044a484.png)
+
